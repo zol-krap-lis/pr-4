@@ -1,3 +1,6 @@
+## Практика #3 Золотов А.А. Лисин С.В. Крапивин Я.С. (БСМО-11-24) 
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zol-krap-lis/pr-4/blob/main/pr5.ipynb)
 
 # Крестики-нолики с использованием Q-Learning
 
